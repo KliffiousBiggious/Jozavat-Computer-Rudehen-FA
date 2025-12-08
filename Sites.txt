@@ -1,0 +1,7 @@
+https://www.3dgep.com
+https://shahriyarshahrabi.medium.com/write-your-own-game-engine-df1132908cdf
+Pretty good site for suggesting books: https://www.codeintrinsic.com/a-guide-to-start-creating-a-game-engine/#Books
+Shadow = https://www.realtimeshadows.com
+Good General info site: https://pikuma.com/blog/how-to-make-your-own-cpp-game-engine
+University site: https://www.uno.edu/academics/cos/computer-science/game-development/resources
+Good site for info on rendering and shit: https://www.gamedeveloper.com/blogs/how-to-make-your-own-game-engine-and-why-

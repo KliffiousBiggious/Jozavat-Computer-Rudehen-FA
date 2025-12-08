@@ -1,0 +1,2 @@
+Operating System internals and Design Principals .... William Stallings
+Operating Systems Concepts Abraham Silberschatz, Greg Gagne, Peter B. Galvin

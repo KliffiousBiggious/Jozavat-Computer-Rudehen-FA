@@ -12,3 +12,4 @@ Build EXE:
 pip install pyinstaller
 pyinstaller --onefile --windowed main.py
 
+نسخه اجرایی در dist  میباشد

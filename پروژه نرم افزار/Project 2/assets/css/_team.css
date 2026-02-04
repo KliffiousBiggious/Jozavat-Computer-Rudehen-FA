@@ -1,0 +1,47 @@
+.studio-section {
+  background-image: url(../img/ExsMaterial/fallout-7kawqvpzbzc3xlv4.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.frameword-intro {
+  background-color: #ffffff;
+  top: 106%;
+  left: 50%;
+  width: 80%;
+  transform: translate(-50%, -50%);
+  height: auto;
+  box-shadow: 1px 1px 1px #efefefef;
+  border-radius: 2px;
+}
+.frameword-intro span {
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  padding: 1px 18px;
+}
+.frameword-intro h3 {
+  margin: 30px 0 130px 0;
+}
+
+.frameword-intro a {
+  color: blue;
+  border: 2px solid orange;
+  display: inline-block;
+  padding: 5px 1px;
+  margin-bottom: 10px;
+  width: 100px;
+  transition: 0.5s ease-in;
+}
+.frameword-intro a:hover {
+  background-color: orange;
+}
+
+@media only screen and (max-width: 614px) {
+  .frameword-intro h3 {
+    margin: 20px 0 20px 0;
+    font-size: 14px;
+  }
+  .frameword-intro a {
+    font-size: 14px;
+  }
+}

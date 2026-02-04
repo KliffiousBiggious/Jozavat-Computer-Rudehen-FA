@@ -1,0 +1,6 @@
+﻿G:\Visual Studio\IDE Iteself\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+G:\Visual Studio\IDE Iteself\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (CliffAddedProj.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+LINK : warning LNK4044: unrecognized option '/LIBS'; ignored
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  CliffAddedProj.vcxproj -> F:\GitRepositoriesCustomFolder\Notes\AM\Simple OpenGL Renderer\Alpha Proj Renderer\Debug\x64\Alpha Proj Renderer.exe

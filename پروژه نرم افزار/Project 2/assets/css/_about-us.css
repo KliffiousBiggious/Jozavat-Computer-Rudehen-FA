@@ -1,0 +1,18 @@
+.abt-us-left {
+  background-color: rgb(255, 255, 255);
+  margin-top: 10px;
+  min-height: 300px;
+}
+
+.abt-us-left h4 {
+  /* color:inherit; */
+  border-bottom: 1px solid #ede7e7;
+  font-size: 20px;
+  padding-bottom: 18px;
+}
+.abt-us-left p{
+    padding: 26px;
+    font-size: 17px;
+    line-height:32px;
+    color:#6b6666
+}

@@ -1,0 +1,64 @@
+/* icons Section */
+/* Sections */
+/* top menu */
+.tm {
+  color: #ffffff;
+  background-color: #000000;
+  overflow: hidden;
+}
+
+#topMenu {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+/* Each option(link) of top menu */
+.tm a {
+  float: right;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 16px;
+}
+
+/* The first option of top menu (link)  */
+.tm a:first-child {
+  border-bottom: 4px solid red;
+}
+/* Each option (link) of top menu when hovered */
+.tm a:hover {
+  border-bottom: 4px solid red;
+  float: right;
+  color: rgb(255, 251, 0);
+  text-align: center;
+  padding: 14px 16px;
+}
+.menu-option {
+  display: none;
+}
+
+@media only screen and (max-width: 600px) {
+  .tm a:not(:first-child) {
+    display: none;
+  }
+
+  /*why .tm a.menu-option NOT .menu-option ????? */
+  .tm a.menu-option {
+    display: block;
+    float: left;
+  }
+
+  .tm.responsive {
+    position: relative;
+  }
+  .tm.responsive a.menu-option {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .tm.responsive a {
+    display: block;
+    text-align: center;
+    float: none;
+  }
+}

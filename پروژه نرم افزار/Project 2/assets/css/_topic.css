@@ -1,0 +1,35 @@
+.topic-section {
+  background-image: url(../img/Hypnotize/LeftOriented/BlackYellow/1.png);
+  height: 900px;
+  background-repeat: no-repeat;
+  /* opacity: .9; */
+  /* filter: blur(2px); */
+}
+
+
+
+.topic-section .card{
+  background-color: rgb(218, 255, 210);
+  box-shadow:1px 1px 1px 2px rgba(102, 51, 153, 0.096);
+}
+
+.topic-section .card-header {
+overflow: hidden;
+}
+.topic-card img{
+  transition: .5s ease-in;
+}
+
+.topic-card:hover img {
+  transform: scale(1.2) rotate(10deg);
+}
+
+.topic-card .card-body a{
+  font-size: 16px;
+  padding: 5px;
+
+}
+
+.topic-card .card-body {
+  margin: 32px 10px;
+}

@@ -1,0 +1,16 @@
+.stats-section {
+  background-color: rgb(0, 0, 0);
+  color: white;
+  /* height: 250px; */
+}
+.stats-section img {
+
+}
+.stats-section .count {
+  /* counter-reset: white; */
+  font-size: 26px;
+  /* margin: 30px; */
+}
+.stats-section .count-title{
+ font-size: 18px;
+}
